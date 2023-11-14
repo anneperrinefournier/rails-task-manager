@@ -13,3 +13,28 @@
  *= require_tree .
  *= require_self
  */
+
+ .container {
+ }
+
+ a {
+  text-decoration: none !important;
+ }
+
+ ul {
+  list-style: none;
+ }
+
+ .text-decoration, .fa-regular {
+  text-decoration: none;
+  color: black !important;
+
+ }
+
+ .text-decoration:hover {
+  color: lightgrey;
+ }
+
+ li {
+  text-decoration: none;
+ }
